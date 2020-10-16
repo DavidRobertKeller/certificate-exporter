@@ -21,3 +21,44 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+# MacOs Files
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+
+# Windows Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Java
+target/
+build
+bin
+
+# Eclipse Files
+.project
+.metadata
+.classpath
+.settings/
+.loadpath
+eclipse_launchers
+
+
+# IntelliJ Files)
+.idea/
+*.iml
+*.iws
+
+
+# Application
+logs/
+/*.log
+
+# Gradle
+.gradle
+build
+test-output
